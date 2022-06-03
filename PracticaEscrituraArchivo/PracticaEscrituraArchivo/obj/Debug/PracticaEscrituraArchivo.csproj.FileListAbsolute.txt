@@ -1,0 +1,7 @@
+C:\Users\52664\source\repos\PracticaEscrituraArchivo\PracticaEscrituraArchivo\bin\Debug\PracticaEscrituraArchivo.exe.config
+C:\Users\52664\source\repos\PracticaEscrituraArchivo\PracticaEscrituraArchivo\bin\Debug\PracticaEscrituraArchivo.exe
+C:\Users\52664\source\repos\PracticaEscrituraArchivo\PracticaEscrituraArchivo\bin\Debug\PracticaEscrituraArchivo.pdb
+C:\Users\52664\source\repos\PracticaEscrituraArchivo\PracticaEscrituraArchivo\obj\Debug\PracticaEscrituraArchivo.csproj.AssemblyReference.cache
+C:\Users\52664\source\repos\PracticaEscrituraArchivo\PracticaEscrituraArchivo\obj\Debug\PracticaEscrituraArchivo.csproj.CoreCompileInputs.cache
+C:\Users\52664\source\repos\PracticaEscrituraArchivo\PracticaEscrituraArchivo\obj\Debug\PracticaEscrituraArchivo.exe
+C:\Users\52664\source\repos\PracticaEscrituraArchivo\PracticaEscrituraArchivo\obj\Debug\PracticaEscrituraArchivo.pdb
