@@ -1,0 +1,7 @@
+C:\Users\52664\source\repos\TEcrituraArchivos\TEcrituraArchivos\bin\Debug\TEcrituraArchivos.exe.config
+C:\Users\52664\source\repos\TEcrituraArchivos\TEcrituraArchivos\bin\Debug\TEcrituraArchivos.exe
+C:\Users\52664\source\repos\TEcrituraArchivos\TEcrituraArchivos\bin\Debug\TEcrituraArchivos.pdb
+C:\Users\52664\source\repos\TEcrituraArchivos\TEcrituraArchivos\obj\Debug\TEcrituraArchivos.csproj.AssemblyReference.cache
+C:\Users\52664\source\repos\TEcrituraArchivos\TEcrituraArchivos\obj\Debug\TEcrituraArchivos.csproj.CoreCompileInputs.cache
+C:\Users\52664\source\repos\TEcrituraArchivos\TEcrituraArchivos\obj\Debug\TEcrituraArchivos.exe
+C:\Users\52664\source\repos\TEcrituraArchivos\TEcrituraArchivos\obj\Debug\TEcrituraArchivos.pdb
